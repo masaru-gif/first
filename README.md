@@ -1,9 +1,4 @@
-# First
-勉強用に初めて作ったリポジトリです。
-
-私が初めて作ったC言語のCUIアプリを置いておきます。
-
-## FunctionGraphing
+# FunctionGraphing
 Created 2022.7.24
 
 使える文字 x 演算子 + - * /
