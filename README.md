@@ -1,21 +1,23 @@
-# First
-勉強用に初めて作ったリポジトリです。
-
-私が初めて作ったC言語のCUIアプリを置いておきます。
-
 ## FunctionGraphing
+Created 2022.7.24
 
+使える文字 x 演算子 + - * /
 
-## Download
+ターミナルで画面サイズ最大で出力して欲しいです。
 
-You can download the application by clicking the link below:
+半角入力でお願いします。
 
-[Download Here](https://github.com/username/my-repo/releases/latest/download/app.c)
+例: -1000/x, x*x-20*x+110, x, -x などがわかりやすいです。
+
+sg などの入力も試してもらえると嬉しいです。
+
+希望通りの入力じゃないとバグります。
 
 ## How to Run
+このアプリケーションを実行するには、Cコンパイラがインストールされている必要があります。
 
-To run this application, you need to have a C compiler installed. You can compile the application using `gcc` as follows:
+以下のように `gcc` を使ってアプリケーションをコンパイルすることができます。
 
 ```sh
-gcc -o app app.c
-./app
+gcc -o function_graphing function_graphing.c
+./function_graphing
