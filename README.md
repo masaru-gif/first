@@ -1,3 +1,8 @@
+# First
+勉強用に初めて作ったリポジトリです。
+
+私が初めて作ったC言語のCUIアプリを置いておきます。
+
 ## FunctionGraphing
 Created 2022.7.24
 
@@ -12,6 +17,10 @@ Created 2022.7.24
 sg などの入力も試してもらえると嬉しいです。
 
 希望通りの入力じゃないとバグります。
+
+## Download
+[こちら](https://github.com/masaru-gif/first/releases)
+からダウンロードできます。
 
 ## How to Run
 このアプリケーションを実行するには、Cコンパイラがインストールされている必要があります。
